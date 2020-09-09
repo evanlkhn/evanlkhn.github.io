@@ -1,0 +1,25 @@
+# main links
+main:
+  #- title: "Quick-Start Guide"
+  #  url: /docs/quick-start-guide/
+  #- title: "About"
+  #  url: /about/
+  
+# documentation links
+docs:
+  - title: Programming
+    children:
+      - title: "java"
+        url: /categories/#java
+      - title: "spring"
+        url: /categories/#spring
+      - title: "os"
+        url: /categories/#os
+      - title: "data structure"
+        url: /categories/#data-structure
+      - title: "algorithm"
+        url: /categories/#algorithm
+  - title: 일상
+    children:
+      - title: "-"
+        url: /categories/#daily
